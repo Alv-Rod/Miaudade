@@ -12,6 +12,7 @@ Para iniciar sua aventura em Miaudade basta extrair o arquivo 'Miaudade.zip' e e
 
 (Você pode alterar a fonte indo em Padroes e então em Fontes.)
 
--Miaudade foi feito em linguagem python -Feito por Alvaro Rodrigues e Izabela Rocha
+-Miaudade foi feito em linguagem python 
+-Feito por Alvaro Rodrigues e Izabela Rocha
 
 Apesar de ser um programa pequeno, pedimos para que não altere o codigo. Divirtam-se em Miaudade e boa sorte
